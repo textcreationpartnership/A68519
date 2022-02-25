@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An oration militarie to all naturall Englishmen, whether Protestants, or otherwise in religion affected, to moue resolution in these dangerous times vvherein is expressed the delight of libertie, and the tyrannie of the enemie : with a praier both pithie and necessarie / written by a zealous affected subiect.</title>
+            <author>Zealous affected subject.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68519</idno>
+            <idno type="STC">STC 18836.5</idno>
+            <idno type="STC">ESTC S110216</idno>
+            <idno type="EEBO-CITATION">22122149</idno>
+            <idno type="OCLC">ocm 22122149</idno>
+            <idno type="VID">10730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 538:4 or 1732:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An oration militarie to all naturall Englishmen, whether Protestants, or otherwise in religion affected, to moue resolution in these dangerous times vvherein is expressed the delight of libertie, and the tyrannie of the enemie : with a praier both pithie and necessarie / written by a zealous affected subiect.</title>
+                  <author>Zealous affected subject.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Orwin and Thomas Cadman,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1588.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Imperfect: defaced.</note>
+                  <note>This item appears at reel 538:4 identified as STC 18837+ (number changed in 2nd ed. to 18836.5).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10730:1" rendition="simple:additions"/>
+            <pb facs="tcp:10730:1" rendition="simple:additions"/>
+            <p>AN Oration Militarie to all naturall Engliſhmen, whe<g ref="char:EOLhyphen"/>ther Proteſtants, or other<g ref="char:EOLhyphen"/>wiſe in Religion affected, to moue reſolution in theſe dangerous times.</p>
+            <p>VVherein is expreſſed the de<g ref="char:EOLhyphen"/>light of libertie, and the ty<g ref="char:EOLhyphen"/>rannie of the enemie.</p>
+            <p>With a Praier both pithie and neceſſarie.</p>
+            <p>Written by a zealous affected Subiect.</p>
+            <q xml:lang="lat">Non nobis solùm naſcimur.</q>
+            <p>AT LONDON <hi>Printed by Thomas Orwin,</hi> and Thomas Cadman. 1588.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:10730:2" rendition="simple:additions"/>
+            <pb facs="tcp:10730:2" rendition="simple:additions"/>
+            <head>An Oration <hi>Mi<g ref="char:EOLhyphen"/>litarie.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">W</seg>Orthy Cou<g ref="char:cmbAbbrStroke">̄</g>try<g ref="char:EOLhyphen"/>men,</salute>
+            </opener>
+            <p>whoſe pre<g ref="char:EOLhyphen"/>deceſſors were not onely feared in <hi>Europe,</hi> but fa<g ref="char:EOLhyphen"/>mous through all the diſcouered partes of the Earth: doubtfull it is not, but your harts are prepared, and your mindes as it were one fire, valiantly to reſiſt the force of a<g ref="char:EOLhyphen"/>ny forreyne inuaſion: yet to adde flame vnto your fire, I thought good in this breefe exhortation, to animate each of you, (if it may be) to more reſolution. Know then (worthy Countrymen, for why we know you are not igno<g ref="char:EOLhyphen"/>rant, what rumors are ſpread of the preparation of that man of ſinne, that worthleſſe Prieſt
+<pb facs="tcp:10730:3"/>of <hi>Rome,</hi> againſt this Royall Realme) and be you aſſured, that whatſoeuer pretence of Iuſtice our aduerſaries by their falſe A<g ref="char:EOLhyphen"/>poſtles (or Seminarie Prieſts) ſhall buzze into your eares, as redreſſe of wrongs, reformati<g ref="char:EOLhyphen"/>on of Religion or ſuch like: yet if you reſpect your auncient li<g ref="char:EOLhyphen"/>bertie, &amp; conſider the thraldome of your neighbours ſubiected to the tyranie of Spaniſh gouern<g ref="char:EOLhyphen"/>ment, and the double dealing of the Popes feined holines, wey<g ref="char:EOLhyphen"/>ing beſides, that of all bondage, there is none more vile than the ſeruice of the vile, you will (I doubt not) reſolue euery one ra<g ref="char:EOLhyphen"/>ther on death, were it neuer ſo bitter, than either by perſwaſi<g ref="char:EOLhyphen"/>ons of flatterie or feare, ſubmit your ſelues to ſuch, as neyther merit names of men, or are for
+<pb facs="tcp:10730:3"/>courteſie to be accou<g ref="char:cmbAbbrStroke">̄</g>ted among reaſonable creatures. The hea<g ref="char:EOLhyphen"/>then men (good Chriſtian Cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>treymen) were ſo affected vnto their natiue ſoyle, that ſome of them haue entred the armies of the enemies, and aymed at the harts of their cheefe Rulers, ſet<g ref="char:EOLhyphen"/>ting ſo light by torments, that being apprehended, they them<g ref="char:EOLhyphen"/>ſelues haue burnt off the hand, whoſe deathfull ſtroke miſtooke the man, their hearts deſired to diſpatch: ſome caſt themſelues into raging gulphes: others de<g ref="char:EOLhyphen"/>teſted life, when Countreyes li<g ref="char:EOLhyphen"/>bertie hath bene loſt: moſt crying out, <hi>O fortunata mers quae naturae de<g ref="char:EOLhyphen"/>bira pro Patria potiſsimum est reddita.</hi> Then much more we, who are not onely bound by like loue, but by a greater bonde (euen Chri<g ref="char:EOLhyphen"/>ſtian libertie) ought to ſet light
+<pb facs="tcp:10730:4"/>by life, &amp; willingly imbrace the greateſt torments that tyranny can oppoſe, rather than ſee Re<g ref="char:EOLhyphen"/>ligion defaced, our Countrie ru<g ref="char:EOLhyphen"/>inated, our Souereigne Prin<g ref="char:EOLhyphen"/>ceſſe iniured, our wiues and vir<g ref="char:EOLhyphen"/>gins defiled, our infants toſt on pikes, and our goods the gree<g ref="char:EOLhyphen"/>die Spaniardes ſpoyle. Take courage Countreymen, and if they come, reſolue on victorie or death: if they come not, deter<g ref="char:EOLhyphen"/>mine ſome of you to braue the cowardes at their doores. Yea more, let not anie, either En<g ref="char:EOLhyphen"/>gliſh traytor, or foreyne tyrant, be named leader but of a bande againſt this noble Iland, or the leaſt part of her Maieſties Do<g ref="char:EOLhyphen"/>minions, but let his heart bloud by ſome deuice or other, ſatiſfie for an attempt ſo iniurious.</p>
+            <p>Set before your eyes the de<g ref="char:EOLhyphen"/>ſolation
+<pb facs="tcp:10730:4"/>of the Lowe Countrie, whoſe people flouriſhed within theſe thirtie yeres, no Nation in more felicitie:but fince the Spa<g ref="char:EOLhyphen"/>niardes haue oppreſt their go<g ref="char:EOLhyphen"/>uernment, no men ſo miſerable. Of their affliction, it is needleſſe to ſpeake, for that your eyes are witneſſes of their exiled num<g ref="char:EOLhyphen"/>bers, your eares haue heard of the mercileſſe maſſacres among them, and the whole worlde re<g ref="char:EOLhyphen"/>porteth y<hi rend="sup">e</hi> wretchedneſſe of their defaced Cities, and deſolate ha<g ref="char:EOLhyphen"/>bitations. But ſome may ſay to me, ſeeing the Pope is Patrone of this hallowed armie, there ſhal be mercie ſhewed to the ſub<g ref="char:EOLhyphen"/>miſſe, and reward to ſuch as re<g ref="char:EOLhyphen"/>ſiſt not (for thus his fauourers will report of him): but bee not you deceiued Countreymen, to you I now ſpeake that haue af<g ref="char:EOLhyphen"/>fected
+<pb facs="tcp:10730:5"/>our Antichriſtian enemy, the elder brother to <hi>Mahomet,</hi> by whoſe pride the yonger grew to ſuch pompe, learne nowe at laſt to diſcerne him by his deedes. His pride O Countreymen, loſt all <hi>Aſia, Syria, Arabia, Armenia, Cappadocia, Aegypt, Africa,</hi> a great part of <hi>Europe,</hi> as <hi>Thracia, Conſtan<g ref="char:EOLhyphen"/>tinople,</hi> all <hi>Greece,</hi> almoſt all <hi>Hunga<g ref="char:EOLhyphen"/>rie, Epyrus, Illyria,</hi> a great part of <hi>Auſtria,</hi> with thoſe famous Iles of <hi>Rhodes</hi> and <hi>Candie,</hi> and infinite other Regions, nowe ſubiect to Turkiſh tyrannie: yea, he that will needes bee called high Bi<g ref="char:EOLhyphen"/>ſhop of Chriſtendome, hath be<g ref="char:EOLhyphen"/>trayed theſe Chriſtian King<g ref="char:EOLhyphen"/>domes, and yet ceaſeth not by like diſſenſion, to lay open this little remnant for the Turkiſh inuaſion. His mercie &amp; the mer<g ref="char:EOLhyphen"/>cie of his adherents, is like that
+<pb facs="tcp:10730:5"/>which <hi>Muſtapha</hi> his ſpiritual bro<g ref="char:EOLhyphen"/>ther ſhewed, whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Famogoſta</hi> was deliuered by y<hi rend="sup">e</hi> Prince of <hi>Cyprus,</hi> who forced through long famin to compound, couenanted ſoul<g ref="char:EOLhyphen"/>dier like he and his people ſhould depart with bag and baggage: but moſt faithleſſely when they were iſſued, after manie vile re<g ref="char:EOLhyphen"/>proches, they ſtript the Prince, and with hotte pincers bliſtered his bodie, thruſting wier into e<g ref="char:EOLhyphen"/>uerie bliſter, &amp; being dead with famine and this torment, they bowelled and ſtufte him full of ſtrawe, &amp; on their greateſt gal<g ref="char:EOLhyphen"/>leyes maſt, (whereinto his ſoul<g ref="char:EOLhyphen"/>diers were thruſt for ſlaues,) they hanged y<hi rend="sup">e</hi> martyred Prince to augment his ſeruants miſe<g ref="char:EOLhyphen"/>rie: ſuch mercie as the Spani<g ref="char:EOLhyphen"/>ards ſhewed to the Portugalls in <hi>Tercera,</hi> who were al without
+<pb facs="tcp:10730:6"/>reſpect of age or innocence, put either to tormenting deaths, or condemned to the Gallyes, yet were they of the ſame religio<g ref="char:cmbAbbrStroke">̄</g> as their enimies, both ſubiect to the Sea of <hi>Rome:</hi> ſuch mercie as the ſilly <hi>Indians</hi> finde, who<g ref="char:cmbAbbrStroke">̄</g> the Spa<g ref="char:EOLhyphen"/>niards haue bayted with dogs, throwen to wilde beaſts, &amp; but<g ref="char:EOLhyphen"/>chered by hundreds, as their owne Writers report: therfore it is euide<g ref="char:cmbAbbrStroke">̄</g>t that they regard not Religion, but ſeeke for <hi>Englands</hi> ruine, wherefore beleeue them not: but remember the reſoluti<g ref="char:EOLhyphen"/>on of <hi>Lewys</hi> the French Kinges ſonne, diſcouered to the Engliſh Gentlemen co<g ref="char:cmbAbbrStroke">̄</g>federates againſt their naturall Prince King <hi>Iohn,</hi> by a noble man of <hi>France</hi> a coun<g ref="char:EOLhyphen"/>ſeller to the ſaid <hi>Lewys,</hi> beeing in <hi>London</hi> at the point of death: and for that it is ſo excellent an ex<g ref="char:EOLhyphen"/>ample
+<pb facs="tcp:10730:6"/>in theſe times, &amp; the pre<g ref="char:EOLhyphen"/>tence of the Engliſh rebellious was to defend the Papal digni<g ref="char:EOLhyphen"/>tie, I thinke good breefely to note the effect of his admoniti<g ref="char:EOLhyphen"/>on: <q>
+                  <hi>My Lords</hi> (ſaith he) <hi>and Gentle<g ref="char:EOLhyphen"/>men of England, I am in conſcience moo<g ref="char:EOLhyphen"/>ued, my houre of death approching, to warne you of imminent danger that han<g ref="char:EOLhyphen"/>geth ouer your heads: You ſee that my Lord the Prince Lewys through your aſ<g ref="char:EOLhyphen"/>ſiſtance, hath gained many forces in this Realme of England: and if you were not blinded with too much malice, you might eaſily perceiue what he intendeth toward you, in that he makes French men rulers ouer thoſe holdes: but to aſſure you bet<g ref="char:EOLhyphen"/>ter of his intent, I protest vpon my ſoule, which must ſhortly anſwere, if I ſpeake vntruth, that before euer we left Paris, it was agreed, that not one of you which aſsiſted him against your Souereigne, but ſhould hane the reward of traytors when
+<pb facs="tcp:10730:7"/>he was poſſeſſed of the crowne.</hi>
+               </q> Reme<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ber this good Cou<g ref="char:cmbAbbrStroke">̄</g>treymen, and truſt not ſtrangers, beleeue not the ſecret meſſengers from <hi>Rome,</hi> but be ye all of one minde in the defence of <hi>England,</hi> leaſt enuie let in the enemie, who will neither ſpare the enuious, nor the enui<g ref="char:EOLhyphen"/>ed: therefore let factious men be hated as your deadlieſt ene<g ref="char:EOLhyphen"/>mies, &amp; count him happie which haſts his ende y<hi rend="sup">t</hi> muttereth diſ<g ref="char:EOLhyphen"/>ſention in your cares. Laſtly, noble Engliſhmen, that abhorre the dregs of Poperie, or at leaſt haue not at all taſted thereof, conſider the olde Principle, <hi>Nul<g ref="char:EOLhyphen"/>la fides cum haereticis obſeruanda,</hi> and for heretikes hee accounteth vs, wherefore wee ought neither to beleeue him nor his. This point the Pope hath ſo obſerued, that hee hath made the ſonne breake
+<pb facs="tcp:10730:7"/>faith with y<hi rend="sup">e</hi> father, y<hi rend="sup">e</hi> wife with the huſband, as lately in <hi>France,</hi> the ſubiect with the Prince, as <hi>England</hi> can too wel witneſſe, yea by Ambaſſadors, which is ab<g ref="char:EOLhyphen"/>hominable amo<g ref="char:cmbAbbrStroke">̄</g>g heathen men, hath the Pope and <hi>Spaine</hi> practi<g ref="char:EOLhyphen"/>ſed treaſon, as lately by <hi>Mendoz<g ref="char:EOLhyphen"/>za</hi> with <hi>Francis Throckmorton</hi> euen in <hi>London.</hi> O Countrimen, deteſt theſe infidels, thinke on your goods, your lands, pare<g ref="char:cmbAbbrStroke">̄</g>ts, chil<g ref="char:EOLhyphen"/>dren, wiues, Prince, Countrie, and Religion, for which to die is euen the waye to life. without which to liue is worſe than anie death: and truſt in God that gi<g ref="char:EOLhyphen"/>ueth victorie, to whoſe righte<g ref="char:EOLhyphen"/>ouſnes if we cleaue, and conſent in vnitie, our enemies ſhall be of no force, who are only feared be<g ref="char:EOLhyphen"/>cauſe they are cruell, and neuer winne victorie but by treaſon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:10730:8"/>
+            <head>
+               <g ref="char:leaf">❧</g> The Praier.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lmightie &amp; Eternal God, that diſpoſeſt of all Nations at thy pleaſure, &amp; haſt alwayes from the worldes foundation, ſhewen forth thy wonders in deliuering thy elect, e<g ref="char:EOLhyphen"/>uen from the very doore of death; as <hi>Noah</hi> from the olde rebellious, <hi>Lot</hi> from <hi>Sodom, Iacob</hi> from <hi>Eſau, Iſrael</hi> fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Aegypt, Dauid</hi> from <hi>Saul,</hi> and <hi>Ezekiah</hi> from <hi>Zenacherib:</hi> all theſe thy chil<g ref="char:EOLhyphen"/>dren, (O mightie God of hoſtes) had mightie worldlings to their enemies: but for their faith was fixed in thy righteouſnes, the armies nor enuie of their aduerſaries could preuail againſt the<g ref="char:cmbAbbrStroke">̄</g>: for, with the breath of thy mouth were they conſumed; &amp; to their ſhame were they co<g ref="char:cmbAbbrStroke">̄</g>founded. Thou wert one God from the beginning, thou art the ſame, &amp; wilt be euer one; which makes vs wretched ſinners, (not withſtanding the number of our miſdeedes, excee<g ref="char:EOLhyphen"/>ding the Starres in Heauen, or fandes of the Sea) to proſtrate our ſelues be<g ref="char:EOLhyphen"/>fore thy throne of Maieſty, beſeeching
+<pb facs="tcp:10730:8"/>mercy and thy omnipotent aſsiſtance. We haue ſinned ô Lord, we haue gone aſtray, be mercifull, ô God be merci<g ref="char:EOLhyphen"/>full to our offences, and for thy owne name ſake, looke downe vpo<g ref="char:cmbAbbrStroke">̄</g> thy ſmall flocke, thy little Church of England, againſt whom whole armies of <hi>Rabſha<g ref="char:EOLhyphen"/>kehs</hi> are ſent to rayle, <hi>Zenacherib</hi> him<g ref="char:EOLhyphen"/>ſelfe blaſpheming, and practiſing in <hi>Babylon</hi> our ruine: &amp; to him are ioy<g ref="char:EOLhyphen"/>ned the greateſt nations. Againſt thee &amp; thine anoynted <hi>Elizabeth</hi> haue they conſpired; againſt thee and thine in<g ref="char:EOLhyphen"/>heritance of <hi>England</hi> haue they bent their power; they haue ſworne to re<g ref="char:EOLhyphen"/>nue their olde abhominations; and make thy ſanctuarie among vs deſo<g ref="char:EOLhyphen"/>late: being in number as the duſt of the earth. But O God of <hi>Abraham, Iſaac, Iacob</hi> and their righteous ſeede, in whoſe ſight the Maieſtie of men is miſerable, and their proudeſt numbers as the fearefull Hinde: ſtretch forth thy arme, &amp; fight for vs ô Lord; poure foorth thy ſpirite on our honorable &amp; aged men, on our youthfull and vali<g ref="char:EOLhyphen"/>ant men, that the one with counſell a<g ref="char:EOLhyphen"/>greeable to thy will, may ſtirre vp the
+<pb facs="tcp:10730:9"/>courage of the other to fight thy bat<g ref="char:EOLhyphen"/>tels, that the foes of <hi>England,</hi> (enemies to thy Almightineſſe) may be as chaffe toſſed with the winde. Increaſe in vs charitie, confirme our faith, defend our Souereigne, continue thy Goſpell mongſt vs, that thou maiſt be glorified for euer in this Realme of <hi>England.</hi> Grant theſe deare Father and al other our neceſsities, euen for thy ſonne our Sauiour Ieſus ſake. Amen.</p>
+            <pb facs="tcp:10730:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
